@@ -8,3 +8,5 @@ Le jouer s'empare du ballon et doit viser une des deux lucarnes pour poursuivre 
 
 
 [Il vise la lucarne gauche](chambre.md)
+
+![cc0acdf7dc2968346cc8d86dc76b6763cbb8b8dd](https://github.com/noahbhme/labyrinthe-sio24/assets/139211283/5ad2cd73-4cbe-426f-bbf2-eaa54da0bdb9)
