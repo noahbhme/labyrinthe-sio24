@@ -7,6 +7,6 @@ Cet Homme (nono) vous regarde d'un aire insistant en vous proposent du vin, en v
 
 Vous voulez fumer ? [Aller au jardin](jardin.md)
 
-Vous avez faim ? [Aller à la pizzeria](pizzeria.md)
+Vous avez faim ? [Aller à la pizzeria](pizzeria.md). Il y aura surement noah vous jugera pour votre summer body.
 
 Si vous voulez finir la soirée comme mylène, [aller en boite de nuit](boite.md)
