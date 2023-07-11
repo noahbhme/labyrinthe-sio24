@@ -9,4 +9,4 @@ Vous voulez fumer ? [Aller au jardin](jardin.md)
 
 Vous avez faim ? [Aller à la pizzeria](pizzeria.md). Il y aura surement noah vous jugera pour votre summer body.
 
-Si vous voulez finir la soirée comme mylène, [aller en boite de nuit](boite.md)
+Si vous voulez finir la soirée bien allumer, [aller en boite de nuit](boite.md)
