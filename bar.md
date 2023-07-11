@@ -1,5 +1,6 @@
 # Bar le GFS
 Bienvenue au bar le GFS
+
 ![bar-nono](https://github.com/noahbhme/labyrinthe-sio24/assets/71257089/e0a1ea05-51d0-4a30-b865-5aee16e1de2c)
 
 Vous voulez fumer ? [Aller au jardin](jardin.md)
