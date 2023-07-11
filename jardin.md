@@ -7,4 +7,4 @@ heureusement vous trouvez un coin d'ombre où faire une petite sieste.
 
 vous vous réveillez 1 heure plus tard, avec une petite faim.
 
-[tiens tiens, il y a une pizzeria à côté !](pizzeria.md)
+tiens tiens, il y a une [pizzeria] à côté !(pizzeria.md)
