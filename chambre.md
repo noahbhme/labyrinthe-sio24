@@ -9,4 +9,5 @@ Vous Souhaiter boire un verre [cave-à-vin](cave-à-vin.md)
 
 Vous Souhaiter vous rafraichir [Piscine](piscine.md)
 
+![gaming-room-avec-canape (1)](https://github.com/noahbhme/labyrinthe-sio24/assets/136432269/2b6890db-d4f4-431d-83b6-ae7b7d742787)
 
