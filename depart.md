@@ -1,2 +1,2 @@
 # depart du labyrinthe 
-Bienvu=enue dans le labyrinthe 
+Bienvenue dans le labyrinthe 
