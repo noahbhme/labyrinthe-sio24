@@ -1,3 +1,3 @@
-# terasse
+# terrasse
 Apéroo
 [Aller Jacuzzi](jacuzzi.md)
