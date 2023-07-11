@@ -1,6 +1,9 @@
 # PIZZA YOLO
 
 vous entrez dans le restaurant de pizza.
+
+![photo de pizza avec des feuilles de basilic](images/pizz.png)
+
 mais soudain votre amie Jenny vous envoie un vocal et vous propose de passer dîner.
 
 ce n'est pas loin, vous y allez.
